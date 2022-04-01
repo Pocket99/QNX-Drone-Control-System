@@ -1,0 +1,3 @@
+#Fri Mar 25 21:11:08 GMT 2022
+eclipse.preferences.version=1
+org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<launchPerspectives>\r\n<launchPerspective configurationType\="com.qnx.tools.ide.qde.ui.QDELaunch" mode\="debug" perspective\="perspective_none"/>\r\n<launchPerspective configurationType\="com.qnx.tools.ide.qde.ui.QDELaunch" mode\="run" perspective\="perspective_none"/>\r\n</launchPerspectives>\r\n

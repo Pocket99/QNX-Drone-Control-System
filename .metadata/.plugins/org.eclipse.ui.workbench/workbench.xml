@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="20" version="2.0">
+<workbenchAdvisor/>
+<window height="768" maximized="true" width="1024" x="663" y="259">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="130" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="com.qnx.tools.ide.phab.ui.PhabActionSet" itemType="typeToolBarContribution" x="37" y="22"/>
+<coolItem id="org.eclipse.cdt.managedbuilder.ui.buildConfigActionSet" itemType="typeToolBarContribution" x="50" y="22"/>
+<coolItem id="org.eclipse.cdt.ui.CElementCreationActionSet" itemType="typeToolBarContribution" x="161" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="161" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="org.eclipse.ui.WorkingSetActionSet" itemType="typeToolBarContribution" x="50" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="185" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.cdt.ui.editor.CEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1648232760445" focus="true" label="Workspace - C/C++">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="coen421lab5.cc" partName="coen421lab5.cc" path="C:/Users/zi_qi/Desktop/lab5/coen421lab5/coen421lab5.cc" title="coen421lab5.cc" tooltip="coen421lab5/coen421lab5.cc" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/coen421lab5/coen421lab5.cc"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="cqstreamsrv.cpp" partName="cqstreamsrv.cpp" path="C:/Users/zi_qi/Desktop/lab5/coen421lab5/cqstreamsrv.cpp" title="cqstreamsrv.cpp" tooltip="coen421lab5/cqstreamsrv.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/coen421lab5/cqstreamsrv.cpp"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="csocket.cpp" partName="csocket.cpp" path="C:/Users/zi_qi/Desktop/lab5/coen421lab5/csocket.cpp" title="csocket.cpp" tooltip="coen421lab5/csocket.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/coen421lab5/csocket.cpp"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="cqstreamclient.cpp" partName="cqstreamclient.cpp" path="C:/Users/zi_qi/Desktop/lab5/coen421lab5/cqstreamclient.cpp" title="cqstreamclient.cpp" tooltip="coen421lab5/cqstreamclient.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/coen421lab5/cqstreamclient.cpp"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="cqstreamclient.h" partName="cqstreamclient.h" path="C:/Users/zi_qi/Desktop/lab5/coen421lab5/cqstreamclient.h" title="cqstreamclient.h" tooltip="coen421lab5/cqstreamclient.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/coen421lab5/cqstreamclient.h"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="cjoystick.cpp" partName="cjoystick.cpp" path="C:/Users/zi_qi/Desktop/lab5/coen421lab5/cjoystick.cpp" title="cjoystick.cpp" tooltip="coen421lab5/cjoystick.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/coen421lab5/cjoystick.cpp"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.cdt.make.ui.views.MakeView" partName="Make Targets"/>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.cdt.ui.CView" partName="C/C++ Projects">
+<viewState horizontalPosition="0" verticalPosition="0">
+<expanded>
+<element path="C:\Users\zi_qi\Desktop\lab5\coen421lab5"/>
+</expanded>
+<selection>
+<element path="C:/Users/zi_qi/Desktop/lab5/coen421lab5/cjoystick.cpp"/>
+</selection>
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.cdt.internal.ui.CView.ArchiveFilter" isEnabled="false"/>
+<child filterId="org.eclipse.cdt.ui.CView_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.cdt.internal.ui.CView.NonCElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.cdt.internal.ui.CView.ExecutableFilter" isEnabled="false"/>
+<child filterId="org.eclipse.cdt.internal.ui.CView.SharedFilter" isEnabled="false"/>
+<child filterId="org.eclipse.cdt.internal.ui.CView.ObjectFilter" isEnabled="false"/>
+<child filterId="org.eclipse.cdt.internal.ui.CView.NonCProjectsFilter" isEnabled="true"/>
+<child filterId="org.eclipse.cdt.internal.ui.CView.ClosedProjectFilter" isEnabled="false"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties"/>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState columnWidth0="253" columnWidth1="78" columnWidth2="153" columnWidth3="63" columnWidth4="0" horizontalPosition="0" verticalPosition="0">
+<columnOrder columnOrderIndex="0"/>
+<columnOrder columnOrderIndex="1"/>
+<columnOrder columnOrderIndex="2"/>
+<columnOrder columnOrderIndex="3"/>
+<columnOrder columnOrderIndex="4"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ResourceNavigator" partName="Navigator"/>
+</views>
+<perspectives activePart="org.eclipse.cdt.ui.editor.CEditor" activePerspective="org.eclipse.cdt.ui.CPerspective">
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.cdt.internal.ui.CPerspectiveFactory" id="org.eclipse.cdt.ui.CPerspective" label="C/C++"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.target.ui.actionset.log"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.updater"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.WorkingSetActionSet"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.SearchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.CElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.phab.ui.PhabActionSet"/>
+<alwaysOnActionSet id="com.qnx.tools.ide.qde.ui.extraActions"/>
+<alwaysOnActionSet id="org.eclipse.cdt.make.ui.makeTargetActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.managedbuilder.ui.buildConfigActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.managedbuilder.ui.buildSelectedFilesActionSet"/>
+<alwaysOnActionSet id="org.eclipse.cdt.ui.CodingActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.cdt.ui.CView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="com.qnx.tools.ide.target.fsys"/>
+<show_view_action id="com.qnx.tools.ide.target.internal.ui.targetview"/>
+<show_view_action id="org.eclipse.cdt.make.ui.views.MakeView"/>
+<new_wizard_action id="com.qnx.tools.ide.qde.ui.MPQNXCWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewMakeCProjectWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.ConvertToMakeWizard"/>
+<new_wizard_action id="org.eclipse.cdt.managedbuilder.ui.wizards.StdCWizard"/>
+<new_wizard_action id="com.qnx.tools.ide.qde.ui.MPQNXCCWizard"/>
+<new_wizard_action id="org.eclipse.cdt.make.ui.wizards.NewMakeCCProjectWizard"/>
+<new_wizard_action id="org.eclipse.cdt.managedbuilder.ui.wizards.StdCCWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewSourceFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewHeaderFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.cdt.ui.wizards.NewClassCreationWizard"/>
+<perspective_action id="com.qnx.tools.ide.BSPPerspective"/>
+<perspective_action id="com.qnx.tools.ide.sysinfo.perspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<view id="org.eclipse.cdt.ui.CView"/>
+<view id="org.eclipse.ui.views.ResourceNavigator"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.cdt.make.ui.views.MakeView"/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.cdt.ui.CView" appearance="2" expanded="2">
+<page content="org.eclipse.cdt.ui.CView" label="C/C++ Projects"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="Navigator"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@cd51ad" ratio="0.74950296" ratioLeft="754" ratioRight="252" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.24950299" ratioLeft="251" ratioRight="755" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottom" ratio="0.6537736" ratioLeft="693" ratioRight="367" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="topRight" ratio="0.7496689" ratioLeft="566" ratioRight="189" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.cdt.make.ui.views.MakeView" label="Make Targets"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/coen421lab5/coen421lab5.cc"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/coen421lab5/cqstreamsrv.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/coen421lab5/cqstreamsrv.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/coen421lab5/csocket.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/coen421lab5/cqstreamclient.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/coen421lab5/cqstreamsrv.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/coen421lab5/cqstreamsrv.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/coen421lab5/cqstreamclient.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/coen421lab5/cqstreamclient.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/coen421lab5/cjoystick.cpp"/>
+</editors>
+<item historyLabel="cqstreamclient.cpp" index="4">
+<position info="not_deleted" x="2588" y="0"/>
+</item>
+<item historyLabel="cqstreamsrv.h" index="1">
+<position info="not_deleted" x="443" y="0"/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="362" y="0"/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="89" y="0"/>
+</item>
+<item historyLabel="cqstreamclient.cpp" index="4">
+<position info="not_deleted" x="3029" y="8"/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="89" y="0"/>
+</item>
+<item historyLabel="cqstreamsrv.h" index="1">
+<position info="not_deleted" x="443" y="0"/>
+</item>
+<item historyLabel="cqstreamsrv.cpp" index="2">
+<position info="not_deleted" x="2331" y="0"/>
+</item>
+<item historyLabel="csocket.cpp" index="3">
+<position info="not_deleted" x="3868" y="9"/>
+</item>
+<item historyLabel="cqstreamclient.cpp" index="4">
+<position info="not_deleted" x="3266" y="9"/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="89" y="0"/>
+</item>
+<item historyLabel="cqstreamsrv.h" index="5">
+<position/>
+</item>
+<item historyLabel="cqstreamsrv.cpp" index="6">
+<position/>
+</item>
+<item historyLabel="cqstreamsrv.h" index="5">
+<position/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="684" y="0"/>
+</item>
+<item historyLabel="cqstreamsrv.cpp" index="6">
+<position info="not_deleted" x="2387" y="0"/>
+</item>
+<item historyLabel="cqstreamsrv.h" index="5">
+<position/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="459" y="0"/>
+</item>
+<item historyLabel="cqstreamsrv.h" index="5">
+<position/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="459" y="0"/>
+</item>
+<item historyLabel="cqstreamsrv.cpp" index="6">
+<position info="not_deleted" x="2387" y="0"/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="449" y="0"/>
+</item>
+<item historyLabel="cqstreamsrv.cpp" index="6">
+<position info="not_deleted" x="2387" y="0"/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="720" y="0"/>
+</item>
+<item historyLabel="cqstreamsrv.cpp" index="6">
+<position info="not_deleted" x="2387" y="0"/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="277" y="32"/>
+</item>
+<item historyLabel="cqstreamsrv.cpp" index="6">
+<position info="not_deleted" x="2387" y="0"/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="277" y="32"/>
+</item>
+<item historyLabel="cqstreamsrv.cpp" index="6">
+<position info="not_deleted" x="2253" y="0"/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="842" y="0"/>
+</item>
+<item historyLabel="cqstreamsrv.cpp" index="6">
+<position info="not_deleted" x="2250" y="0"/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="842" y="0"/>
+</item>
+<item historyLabel="cqstreamsrv.cpp" index="6">
+<position info="not_deleted" x="2584" y="0"/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="459" y="0"/>
+</item>
+<item historyLabel="cqstreamclient.cpp" index="7">
+<position/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="313" y="0"/>
+</item>
+<item historyLabel="cqstreamsrv.cpp" index="6">
+<position info="not_deleted" x="3027" y="0"/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="313" y="0"/>
+</item>
+<item historyLabel="cqstreamsrv.cpp" index="6">
+<position info="not_deleted" x="2346" y="0"/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="276" y="65"/>
+</item>
+<item historyLabel="cqstreamclient.h" index="8">
+<position/>
+</item>
+<item historyLabel="cqstreamclient.cpp" index="7">
+<position/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="365" y="94"/>
+</item>
+<item historyLabel="cqstreamclient.cpp" index="7">
+<position info="not_deleted" x="3680" y="0"/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="285" y="0"/>
+</item>
+<item historyLabel="cjoystick.cpp" index="9">
+<position/>
+</item>
+<item historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="274" y="67"/>
+</item>
+<item historyLabel="cqstreamclient.h" index="8">
+<position/>
+</item>
+<item historyLabel="cqstreamclient.cpp" index="7">
+<position info="not_deleted" x="1186" y="0"/>
+</item>
+<item active="true" historyLabel="coen421lab5.cc" index="0">
+<position info="not_deleted" x="274" y="67"/>
+</item>
+</navigationHistory>
+<stickyState/>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="cjoystick.cpp" tooltip="coen421lab5/cjoystick.cpp">
+<persistable path="/coen421lab5/cjoystick.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="cqstreamclient.h" tooltip="coen421lab5/cqstreamclient.h">
+<persistable path="/coen421lab5/cqstreamclient.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="cqstreamclient.cpp" tooltip="coen421lab5/cqstreamclient.cpp">
+<persistable path="/coen421lab5/cqstreamclient.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="csocket.cpp" tooltip="coen421lab5/csocket.cpp">
+<persistable path="/coen421lab5/csocket.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="csocket.h" tooltip="coen421lab5/csocket.h">
+<persistable path="/coen421lab5/csocket.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="cqstreamsrv.cpp" tooltip="coen421lab5/cqstreamsrv.cpp">
+<persistable path="/coen421lab5/cqstreamsrv.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="cqstreamsrv.h" tooltip="coen421lab5/cqstreamsrv.h">
+<persistable path="/coen421lab5/cqstreamsrv.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="coen421lab5.cc" tooltip="coen421lab5/coen421lab5.cc">
+<persistable path="/coen421lab5/coen421lab5.cc"/>
+</file>
+</mruList>
+</workbench>

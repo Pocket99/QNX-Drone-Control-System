@@ -1,0 +1,38 @@
+#ifndef CSOCKET_H_
+#define CSOCKET_H_
+
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <arpa/inet.h>
+
+
+class CSocket
+{
+private:
+	int sockfd;							// Socket Descriptor.
+	int send_recv_sockfd;				// Socket descriptor of accepted connection.
+	struct sockaddr_in addr;
+	struct sockaddr_in client_addr;
+
+public:
+	unsigned short int port;
+	int backlog;		// Number of pending connection queue will hold.
+	
+	CSocket();
+	~CSocket();
+	
+	int connect_sock(unsigned short int hostPort, char * hostIP);
+	int bind_sock(unsigned short int port);
+	int listen_sockfd();
+	int accept_connection();
+	int send_msg(char * buff, int len);
+	int send_msg_to_client(char * buff, int len);
+	int receive_from_server(char * buff, int len);
+	int receive(char * buff, int len);
+	int open();
+	int close_session();
+	int close_sockfd();
+};
+
+#endif /*CSOCKET_H_*/

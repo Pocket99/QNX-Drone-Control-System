@@ -1,0 +1,30 @@
+#include <cstdlib>
+#include <iostream>
+#include "cjoystick.h"
+#include "cqstreamsrv.h"
+#include "ctimer.h"
+#define QUADCOPTER_PORT 18000
+#define QUADCOPTER_IP "172.30.128.224"
+
+#include "cqstreamclient.h"
+
+using namespace std;
+int main(int argc, char *argv[]) {
+	cjoystick* cj = new cjoystick();
+	cqstreamsrv csrv(18005,50);
+	CTimer timer(1,50);
+//	CQStreamClient client(QUADCOPTER_IP, QUADCOPTER_PORT, 5, 12); 
+//	client.start();
+	cout<<cj->get_status_msg()<<endl;
+	while(cj->is_status_ok()){
+		cj->print_device_info();
+		cout<<cj->get_status_msg()<<endl;
+		cout<<cj->getX()<<endl;
+		cout<<cj->getY()<<endl;
+		cout<<cj->getZ()<<endl;
+		cout<<cj->getRZ()<<endl;
+		csrv.send_data(cj->getX(),cj->getY(),cj->getZ(),cj->getRZ(),0,0,0,0);
+		timer.wait();
+	}
+	return EXIT_SUCCESS;
+}

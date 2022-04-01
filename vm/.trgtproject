@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trgtproject id="com.qnx.tools.ide.target.core.target">
+<data>
+<item id="com.qnx.tools.ide.target">
+<qconnport value="8000"/>
+<qconnhostname value="192.168.141.50"/>
+<qconn>
+<core>
+<show_warning value="true"/>
+</core>
+</qconn>
+<project>
+<name value="vm"/>
+</project>
+</item>
+</data>
+</trgtproject>

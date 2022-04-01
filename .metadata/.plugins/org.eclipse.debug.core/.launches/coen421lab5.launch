@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launchConfiguration type="com.qnx.tools.ide.qde.ui.QDELaunch">
+<stringAttribute key="com.qnx.tools.ide.qde.core.DIR_UPLOAD" value="/tmp"/>
+<stringAttribute key="com.qnx.tools.ide.qde.core.TARGET_ATTR" value="vm"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_STOP_AT_MAIN_SYMBOL" value="main"/>
+<booleanAttribute key="com.qnx.tools.ide.qde.core.TARGET_FILTER_ATTR" value="true"/>
+<booleanAttribute key="org.eclipse.cdt.launch.ENABLE_REGISTER_BOOKKEEPING" value="false"/>
+<booleanAttribute key="com.qnx.tools.ide.qde.core.USE_UNIQ_NAME" value="true"/>
+<booleanAttribute key="org.eclipse.cdt.launch.DEBUGGER_STOP_AT_MAIN" value="true"/>
+<stringAttribute key="com.qnx.tools.ide.qde.core.TARGET_RUN_PERSPECTIVE" value="perspective_none"/>
+<stringAttribute key="com.qnx.tools.ide.qde.core.TARGET_DONTUSE_PTY" value="pickaptyforme"/>
+<stringAttribute key="org.eclipse.cdt.launch.PLATFFORM" value="qnx"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_ID" value="com.qnx.tools.ide.qde.debug.core.CDebugger"/>
+<mapAttribute key="org.eclipse.cdt.launch.ENVIRONMENT_MAP"/>
+<booleanAttribute key="org.eclipse.cdt.launch.ENVIRONMENT_INHERIT" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_START_MODE" value="run"/>
+<listAttribute key="com.qnx.tools.ide.qde.core.ACTIVE_TOOL_DELEGATES"/>
+<booleanAttribute key="com.qnx.tools.ide.qde.core.DO_NOT_UPLOAD_LIBS" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="coen421lab5"/>
+<booleanAttribute key="com.qnx.tools.ide.qde.core.DO_UPLOAD" value="true"/>
+<booleanAttribute key="org.eclipse.cdt.launch.ENABLE_VARIABLE_BOOKKEEPING" value="false"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="x86/o/coen421lab5"/>
+<booleanAttribute key="com.qnx.tools.ide.qde.core.STRIP_BEFORE_UPLOAD" value="true"/>
+<intAttribute key="com.qnx.tools.ide.qde.core.NUM_UPLOAD_LIBS" value="0"/>
+<listAttribute key="com.qnx.tools.ide.qde.core.ACTIVE_TOOLS"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/coen421lab5"/>
+</listAttribute>
+<booleanAttribute key="com.qnx.tools.ide.qde.core.CLEAN_TARGET" value="true"/>
+</launchConfiguration>

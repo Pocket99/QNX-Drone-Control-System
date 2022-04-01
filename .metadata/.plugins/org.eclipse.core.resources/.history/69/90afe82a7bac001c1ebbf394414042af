@@ -1,0 +1,26 @@
+#include <cstdlib>
+#include <iostream>
+#include "cjoystick.h"
+#include "cqstreamsrv.h"
+#include "ctimer.h"
+using namespace std;
+int main(int argc, char *argv[]) {
+	cjoystick* cj = new cjoystick();
+	cqstreamsrv csrv(18005,50);
+	ctimer timer(0,50);
+	
+	
+	cout<<cj->get_status_msg()<<endl;
+	while(true);
+	while(cj->is_status_ok()){
+		cj->print_device_info();
+		cout<<cj->get_status_msg()<<endl;
+	cout<<cj->getX()<<endl;
+		cout<<cj->getY()<<endl;
+		cout<<cj->getZ()<<endl;
+		cout<<cj->getRZ()<<endl;
+		csrv->send_data(cj->getX(),cj->getY(),cj->getZ(),cj->getRZ(),0,0,0,0);
+		timer.wait();
+	}
+	return EXIT_SUCCESS;
+}

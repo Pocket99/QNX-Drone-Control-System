@@ -1,0 +1,1476 @@
+bind success:0
+Port: 18000  ip:  172.30.128.233
+listen success:0
+Connected to the server.0
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: 0
+Gyro Y-axis: -0.00589049
+Gyro Z-axis: -0.00109083
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.0335
+Magnt Z-axis: -0.3185
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00109083
+Gyro Y-axis: -0.00501782
+Gyro Z-axis: -0.001309
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.0335
+Magnt Z-axis: -0.3185
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.0019635
+Gyro Y-axis: -0.00523599
+Gyro Z-axis: -0.00152716
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.0335
+Magnt Z-axis: -0.3185
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00349066
+Gyro Y-axis: -0.00610865
+Gyro Z-axis: -0.0019635
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.0335
+Magnt Z-axis: -0.3185
+Battery voltage: 0
+Sonar: 0
+Reserved: 3663.54
+Waiting for timer. 
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00414516
+Gyro Y-axis: -0.00698132
+Gyro Z-axis: -0.00218166
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.0335
+Magnt Z-axis: -0.3185
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+accept success:9
+sending:
+cjoystick : Joystick present
+Manufacturer : Gam
+Product : Gam㘬뀳
+cjoystick : Joystick present
+0.823899
+0.333333
+0.308176
+0.157233
+-----------HERE---------------
+--------------------------
+send success
+Received 96 bytes. 
+Gyro X-axis: -0.00479966
+Gyro Y-axis: -0.00719948
+Gyro Z-axis: -0.00414516
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.163
+Magnt Y-axis: 0.0335
+Magnt Z-axis: -0.3185
+Battery voltage: 0
+Sonar: 0
+Reserved: 3663.54
+Waiting for timer. 
+sending:
+cjoystick : Joystick present
+Manufacturer : Gam
+Product : Gam
+cjoystick : Joystick present
+0.823899
+0.333333
+0.308176
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+Manufacturer : Gam
+Product : Gam
+cjoystick : Joystick present
+0.823899
+0.333333
+0.308176
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+Manufacturer : Gam
+Product : Gam
+cjoystick : Joystick present
+0.823899
+0.333333
+0.308176
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+Manufacturer : Gam
+Product : Gam
+cjoystick : Joystick present
+0.823899
+0.333333
+0.308176
+0.157233
+-----------HERE---------------
+--------------------------
+send success
+Received 96 bytes. 
+Gyro X-axis: -0.00545415
+Gyro Y-axis: -0.00676315
+Gyro Z-axis: -0.00654498
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.163
+Magnt Y-axis: 0.0335
+Magnt Z-axis: -0.319
+Battery voltage: 0
+Sonar: 0
+Reserved: 3663.54
+Waiting for timer. 
+sending:
+cjoystick : Joystick present
+Manufacturer : Gam
+Product : Gam
+cjoystick : Joystick present
+0.823899
+0.333333
+0.308176
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+Manufacturer : Gam
+Product : Gam
+cjoystick : Joystick present
+0.823899
+0.333333
+0.308176
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00567232
+Manufacturer : Gam
+Gyro Y-axis: -0.00741765
+Gyro Z-axis: -0.00829031
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.163
+Magnt Y-axis: 0.0335
+Magnt Z-axis: -0.3185
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.823899
+0.333333
+0.308176
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00523599
+Manufacturer : Gam
+Gyro Y-axis: -0.00676315
+Gyro Z-axis: -0.00894481
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.034
+Magnt Z-axis: -0.3185
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.823899
+0.333333
+0.308176
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00741765
+Manufacturer : Gam
+Gyro Y-axis: -0.00545415
+Gyro Z-axis: -0.00327249
+Accel X-axis: 0.359218
+Accel Y-axis: -0.195937
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.823899
+0.333333
+0.308176
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00741765
+Manufacturer : Gam
+Gyro Y-axis: -0.00392699
+Gyro Z-axis: -0.00458149
+Accel X-axis: 0.359218
+Accel Y-axis: -0.195937
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.823899
+0.333333
+-1
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00632682
+Manufacturer : Gam
+Gyro Y-axis: -0.00283616
+Gyro Z-axis: -0.00501782
+Accel X-axis: 0.359218
+Accel Y-axis: -0.195937
+Accel Z-axis: -9.86216
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.823899
+0.660377
+0.194969
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00501782
+Manufacturer : Gam
+Gyro Y-axis: -0.00261799
+Gyro Z-axis: -0.00523599
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.89481
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.823899
+1
+0.358491
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00392699
+Manufacturer : Gam
+Gyro Y-axis: -0.00305433
+Gyro Z-axis: -0.00501782
+Accel X-axis: 0.391874
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.89481
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.823899
+1
+1
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00349066
+Manufacturer : Gam
+Gyro Y-axis: -0.00414516
+Gyro Z-axis: -0.00414516
+Accel X-axis: 0.391874
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.86216
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.317
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.823899
+1
+1
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: -0.00436332
+Gyro Y-axis: -0.00436332
+Gyro Z-axis: -0.00349066
+Accel X-axis: 0.391874
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.86216
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.317
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.823899
+1
+1
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: -0.00458149
+Gyro Y-axis: -0.00436332
+Gyro Z-axis: -0.00261799
+Accel X-axis: 0.391874
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.823899
+1
+1
+0.169811
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: -0.00327249
+Gyro Y-axis: -0.00327249
+Gyro Z-axis: -0.00174533
+Accel X-axis: 0.391874
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.823899
+1
+1
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: -0.00109083
+Gyro Y-axis: -0.00239983
+Gyro Z-axis: -0.001309
+Accel X-axis: 0.391874
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.032
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3663.54
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.823899
+0.421384
+0.308176
+0.421384
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: 0.000654498
+Manufacturer : Gam
+Gyro Y-axis: -0.00239983
+Gyro Z-axis: -0.000872665
+Accel X-axis: 0.391874
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.032
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-1
+0.421384
+0.308176
+0.710692
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: 0.001309
+Manufacturer : Gam
+Gyro Y-axis: -0.00152716
+Gyro Z-axis: -0.000218166
+Accel X-axis: 0.391874
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.032
+Magnt Z-axis: -0.3185
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-1
+0.421384
+0.308176
+0.710692
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00109083
+Manufacturer : Gam
+Gyro Y-axis: -0.00109083
+Gyro Z-axis: 0.000436332
+Accel X-axis: 0.391874
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.032
+Magnt Z-axis: -0.3185
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-1
+0.421384
+0.308176
+0.685535
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: -0.00349066
+Gyro Y-axis: -0.00152716
+Gyro Z-axis: -0.000218166
+Accel X-axis: 0.391874
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.032
+Magnt Z-axis: -0.3185
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.987421
+0.421384
+0.308176
+0.169811
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00523599
+Manufacturer : Gam
+Gyro Y-axis: -0.000654498
+Gyro Z-axis: -0.0019635
+Accel X-axis: 0.391874
+Accel Y-axis: -0.195937
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.163
+Magnt Y-axis: 0.032
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.811321
+0.421384
+0.308176
+0.106918
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00654498
+Manufacturer : Gam
+Gyro Y-axis: -0.000872665
+Gyro Z-axis: -0.00370882
+Accel X-axis: 0.391874
+Accel Y-axis: -0.195937
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.333333
+0.421384
+0.308176
+0.157233
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: -0.00632682
+Gyro Y-axis: -0.00174533
+Gyro Z-axis: -0.00523599
+Accel X-axis: 0.391874
+Accel Y-axis: -0.195937
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.333333
+0.421384
+0.308176
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00567232
+Manufacturer : Gam
+Gyro Y-axis: -0.0019635
+Gyro Z-axis: -0.00545415
+Accel X-axis: 0.391874
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.033
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.333333
+0.421384
+0.308176
+0.106918
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: -0.00523599
+Gyro Y-axis: -0.00370882
+Gyro Z-axis: -0.00567232
+Accel X-axis: 0.391874
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.033
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.333333
+0.408805
+0.308176
+-0.0440252
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: -0.00501782
+Gyro Y-axis: -0.00589049
+Gyro Z-axis: -0.00501782
+Accel X-axis: 0.391874
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.033
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3663.54
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.333333
+0.106918
+0.308176
+-0.0440252
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00414516
+Manufacturer : Gam
+Gyro Y-axis: -0.00698132
+Gyro Z-axis: -0.00436332
+Accel X-axis: 0.391874
+Accel Y-axis: -0.0979684
+Accel Z-axis: -9.86216
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3663.54
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.333333
+0.106918
+0.308176
+-0.0440252
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: -0.00349066
+Gyro Y-axis: -0.00719948
+Gyro Z-axis: -0.00436332
+Accel X-axis: 0.391874
+Accel Y-axis: -0.0979684
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.333333
+0.283019
+0.308176
+-0.0440252
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: -0.00174533
+Gyro Y-axis: -0.00567232
+Gyro Z-axis: -0.00349066
+Accel X-axis: 0.391874
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.033
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.194969
+0.433962
+0.0314465
+-0.0440252
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00109083
+Manufacturer : Gam
+Gyro Y-axis: -0.00479966
+Gyro Z-axis: -0.00305433
+Accel X-axis: 0.391874
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3663.54
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.194969
+0.433962
+0.0314465
+-0.0440252
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.0019635
+Manufacturer : Gam
+Gyro Y-axis: -0.00479966
+Gyro Z-axis: -0.00370882
+Accel X-axis: 0.391874
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.194969
+0.433962
+0.0314465
+-0.0440252
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00392699
+Manufacturer : Gam
+Gyro Y-axis: -0.00698132
+Gyro Z-axis: -0.00327249
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3663.54
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.194969
+0.106918
+0.0314465
+-0.0440252
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00698132
+Manufacturer : Gam
+Gyro Y-axis: -0.00916298
+Gyro Z-axis: -0.00283616
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.032
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+0.194969
+0.119497
+0.0314465
+-0.0440252
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: -0.00916298
+Gyro Y-axis: -0.0102538
+Gyro Z-axis: -0.00327249
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.86216
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.032
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3663.54
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.849057
+0.119497
+0.0314465
+-0.0566038
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: -0.0100356
+Gyro Y-axis: -0.00981748
+Gyro Z-axis: -0.00327249
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.86216
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.032
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.849057
+0.119497
+0.0314465
+-0.0440252
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.0102538
+Manufacturer : Gam
+Gyro Y-axis: -0.00719948
+Gyro Z-axis: -0.00392699
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.86216
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.849057
+0.106918
+0.0314465
+-0.0440252
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00872665
+Manufacturer : Gam
+Gyro Y-axis: -0.00589049
+Gyro Z-axis: -0.00436332
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.89481
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.849057
+0.106918
+0.0314465
+0.421384
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00610865
+Manufacturer : Gam
+Gyro Y-axis: -0.00523599
+Gyro Z-axis: -0.00349066
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.86216
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.849057
+0.27044
+0.0314465
+0.421384
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00305433
+Manufacturer : Gam
+Gyro Y-axis: -0.00632682
+Gyro Z-axis: -0.00261799
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.86216
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.672956
+0.283019
+0.081761
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.000654498
+Manufacturer : Gam
+Gyro Y-axis: -0.00719948
+Gyro Z-axis: -0.00109083
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.86216
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.672956
+0.283019
+0.081761
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: 0.00152716
+Manufacturer : Gam
+Gyro Y-axis: -0.00610865
+Gyro Z-axis: -0.000218166
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.672956
+0.283019
+0.081761
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: 0.00218166
+Manufacturer : Gam
+Gyro Y-axis: -0.00392699
+Gyro Z-axis: -0.000872665
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.033
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.672956
+0.283019
+0.081761
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: 0.00218166
+Gyro Y-axis: -0.00239983
+Gyro Z-axis: -0.001309
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.033
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.672956
+0.283019
+0.081761
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: 0.00239983
+Gyro Y-axis: -0.000872665
+Gyro Z-axis: -0.00349066
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.033
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.672956
+0.283019
+0.081761
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: 0.00305433
+Manufacturer : Gam
+Gyro Y-axis: -0.000218166
+Gyro Z-axis: -0.00436332
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.033
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.672956
+0.283019
+0.081761
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: 0.00349066
+Manufacturer : Gam
+Gyro Y-axis: -0.000654498
+Gyro Z-axis: -0.00392699
+Accel X-axis: 0.359218
+Accel Y-axis: -0.163281
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.672956
+0.283019
+0.081761
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: 0.00458149
+Manufacturer : Gam
+Gyro Y-axis: 0.000436332
+Gyro Z-axis: -0.00479966
+Accel X-axis: 0.359218
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.672956
+0.283019
+0.081761
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: 0.00458149
+Manufacturer : Gam
+Gyro Y-axis: 0.00174533
+Gyro Z-axis: -0.00414516
+Accel X-axis: 0.359218
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.032
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3663.54
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.672956
+0.283019
+0.081761
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: 0.00370882
+Gyro Y-axis: 0.00174533
+Gyro Z-axis: -0.00327249
+Accel X-axis: 0.359218
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.032
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.672956
+0.27044
+0.081761
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: 0.0019635
+Manufacturer : Gam
+Gyro Y-axis: 0.00174533
+Gyro Z-axis: -0.00174533
+Accel X-axis: 0.359218
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.1635
+Magnt Y-axis: 0.032
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3661.74
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.672956
+0.283019
+0.081761
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: 0.000218166
+Gyro Y-axis: 0.000654498
+Gyro Z-axis: 0.00152716
+Accel X-axis: 0.359218
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.79684
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.032
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.672956
+0.283019
+0.081761
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00109083
+Manufacturer : Gam
+Gyro Y-axis: -0.000872665
+Gyro Z-axis: 0.00305433
+Accel X-axis: 0.359218
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.318
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.672956
+0.283019
+0.081761
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Manufacturer : Gam
+Gyro X-axis: -0.00218166
+Gyro Y-axis: -0.00109083
+Gyro Z-axis: 0.00349066
+Accel X-axis: 0.359218
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-axis: -0.3175
+Battery voltage: 0
+Sonar: 0
+Reserved: 3662.64
+Waiting for timer. 
+Product : Gam
+cjoystick : Joystick present
+-0.672956
+0.283019
+0.081761
+0.433962
+send success
+sending:
+cjoystick : Joystick present
+-----------HERE---------------
+--------------------------
+Received 96 bytes. 
+Gyro X-axis: -0.00218166
+Manufacturer : Gam
+Gyro Y-axis: -0.00152716
+Gyro Z-axis: 0.00239983
+Accel X-axis: 0.359218
+Accel Y-axis: -0.130625
+Accel Z-axis: -9.8295
+Magnt X-axis: 0.164
+Magnt Y-axis: 0.0325
+Magnt Z-
