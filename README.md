@@ -12,7 +12,10 @@ QNX Drone Control System is an embedded real-time control system designed for dr
 ✅ **Modular Design** – Separated components for easy extension and maintenance.  
 
 ## **Project Structure**
-QNX-Drone-Control-System/ │── drone/ │ ├── cjoystick.cpp/h # Joystick input handling
+```bash
+QNX-Drone-Control-System/ 
+│── drone/ 
+│ ├── cjoystick.cpp/h # Joystick input handling
 │ ├── cqstreamclient.cpp/h # Streaming client
 │ ├── cqstreamsrv.cpp/h # Streaming server
 │ ├── csocket.cpp/h # Network communication
@@ -23,7 +26,7 @@ QNX-Drone-Control-System/ │── drone/ │ ├── cjoystick.cpp/h # Joyst
 │── vm/ # Virtual machine configurations
 │── .metadata/ # Eclipse CDT configuration files
 │── log.txt # Debug logs
-
+```
 
 ## **Installation**
 
